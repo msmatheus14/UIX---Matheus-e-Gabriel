@@ -34,18 +34,5 @@ A proposta inclui um sistema centralizado que conecta usuários, órgãos públi
 
 ---
 
-## 🧩 Tecnologias Sugeridas
-
-| Camada | Tecnologia |
-|--------|------------|
-| Frontend | React, Next.js ou Flutter |
-| Backend | Node.js (Express) |
-| Banco de Dados | PostgreSQL ou MongoDB |
-| Geolocalização | Google Maps API / Mapbox |
-| Autenticação | Firebase Auth / OAuth 2.0 |
-| Armazenamento | Firebase Storage / AWS S3 |
-
----
-
 ## 📁 Estrutura do Projeto
 
