@@ -2,43 +2,33 @@
 
 ## Visão Geral
 **Nome:** João da Silva  
-**Idade:** 42 anos  
+**Idade:** 38 anos  
 **Sexo:** Masculino  
-**Profissão:** Servidor público municipal  
+**Profissão:** Auxiliar de Serviços Gerais  
 **Localização:** Taquarussu, MS  
-**Status de relacionamento:** Casado  
-**Tecnologia:** Smartphone Android com acesso 4G e notebook básico em casa
+**Tecnologia:** Usa celular com Android, conexão 3G
 
-## Características Principais
-- **Objetivos principais:**  
-  - Reportar problemas urbanos de forma rápida  
-  - Acompanhar o andamento das solicitações feitas à prefeitura  
-  - Ser ouvido e ter retorno efetivo dos órgãos públicos  
+## Características
+- **Objetivos:**  
+  - Avisar a prefeitura sobre buracos nas ruas  
+  - Ajudar a cidade a melhorar
 
-- **Principais desafios:**  
-  - Falta de conhecimento sobre canais oficiais de denúncia  
-  - Sentimento de frustração por não ver ações após seus relatos  
-  - Dificuldade em acompanhar o status das demandas  
+- **Desafios:**  
+  - Dificuldade com tecnologia  
+  - Medo de que a denúncia não seja ouvida
 
 - **Motivações:**  
-  - Desejo de melhorar a cidade para sua família  
-  - Senso de dever cívico  
-  - Querer ser reconhecido como alguém que contribui  
+  - Segurança para ele e os vizinhos  
+  - Fazer a parte dele como cidadão
 
-- **Comportamentos:**  
-  - Tende a usar o WhatsApp para reclamar de problemas com amigos  
-  - Não costuma acessar sites institucionais  
-  - Prefere soluções simples, com poucos cliques
+## Necessidades
+- App fácil de usar  
+- Tirar foto e mandar sem complicação  
+- Saber se a prefeitura viu a denúncia
 
-## Necessidades (Hipotéticas)
-- **Necessidade 1:** Ter uma plataforma direta para relatar problemas urbanos com foto e localização  
-- **Necessidade 2:** Acompanhar a situação da sua solicitação em tempo real  
-- **Necessidade 3:** Receber retorno claro e objetivo da prefeitura via notificação
+## Sucesso
+- Conseguir mandar a denúncia rápido  
+- Receber uma confirmação simples
 
-## Sujeitos de Sucesso
-- **O que faria ela ter sucesso ao usar seu produto?**  
-  - Se conseguir abrir uma solicitação em menos de 2 minutos  
-  - Se visualizar facilmente quando a prefeitura iniciou uma ação  
-  - Se puder compartilhar seu protocolo de atendimento com amigos ou vizinhos  
-
-
+## Citação
+_"Se for fácil de usar, eu ajudo. Só quero que resolvam logo."_
